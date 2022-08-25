@@ -1,16 +1,13 @@
 {
-  "name": "json-server-deploy",
+  "name": "lws-json-server-todos",
+  "description": "Example in memory todos api with json-server by Learn with Sumit",
   "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [
-    "ninjakodtv, json-server,heroku, node, REST API"
-  ],
-  "author": "Ninjakod TV Mehmet Yılmaz",
-  "license": "ISC",
+  "keywords": [],
+  "author": "Learn with Sumit",
   "dependencies": {
     "json-server": "^0.17.0"
   }
